@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @supichai
+- 👀 I’m interested in developing apps for environmental studies
+- 🌱 I’m currently working at Chulalongkorn University
+- 💞️ I’m looking to collaborate on making apps for public good.
